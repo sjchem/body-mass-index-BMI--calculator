@@ -17,14 +17,6 @@ This app helps users calculate their BMI, view their weight category, and visual
 
 ---
 
-## 🖼️ Preview
-
-> *(You can replace this section with a real screenshot later)*  
-> Example:
-> ![BMI Calculator Screenshot](./screenshot.png)
-
----
-
 ## 🧠 How to Use
 
 ### 1️⃣ Clone or download this repository
