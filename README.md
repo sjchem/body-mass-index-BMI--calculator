@@ -1,6 +1,33 @@
-# Body mass index calculator
-This gives you a value BMI your body weight with height
-Clean toggle between conversion modes (Roman ↔ Integer)
-✅ Validates user input (e.g., invalid Roman characters, range limits)
-✅ Interactive Streamlit UI with instant results
-✅ Friendly layout and simple design
+# 💪 BMI Calculator Web App
+
+An interactive and visually engaging **Body Mass Index (BMI) Calculator** built with [Streamlit](https://streamlit.io/) and [Plotly](https://plotly.com/).  
+This app helps users calculate their BMI, view their weight category, and visualize results on a dynamic **gauge chart**.
+
+---
+
+## 🚀 Features
+
+- 🧮 Calculates BMI based on height (cm) and weight (kg)
+- ✅ Input validation with error handling
+- 🌈 Color-coded results (Underweight, Healthy, Overweight, etc.)
+- 📊 Interactive **Plotly gauge chart** to visualize BMI range
+- 🎈 Balloons and emojis for user-friendly feedback
+- 🧘‍♂️ Motivational health tips based on BMI category
+- 💻 Built entirely with Streamlit — no HTML or CSS needed!
+
+---
+
+## 🖼️ Preview
+
+> *(You can replace this section with a real screenshot later)*  
+> Example:
+> ![BMI Calculator Screenshot](./screenshot.png)
+
+---
+
+## 🧠 How to Use
+
+### 1️⃣ Clone or download this repository
+```bash
+git clone https://github.com/sjchem/body-mass-index-BMI--calculator
+
